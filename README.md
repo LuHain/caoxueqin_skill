@@ -46,7 +46,7 @@ caoxueqin_skill/
 
 ## 如何使用这个 skill
 
-### 1. 一般学术使用
+### 1. 一般使用
 
 当任务涉及以下内容时，可以直接调用 `caoxueqin-skill`：
 
